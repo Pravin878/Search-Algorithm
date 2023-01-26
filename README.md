@@ -80,8 +80,8 @@ iii)	# Find the element in a list using Binary Search (recursive Method).
 ```
 ''' 
 Program for linear search method to match the item in a list
-Developed by:
-RegisterNumber: 
+Developed by:pravin kumar G
+RegisterNumber: 22002767
 '''
 def linearSearch(array,n,k):
     for i in range(0,n):
